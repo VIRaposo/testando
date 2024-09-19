@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: img src= "blob:chrome-untrusted://media-app/d4c3c276-6d7e-4efd-a24a-79b2d71c77b0";
+    background-image: "blob:chrome-untrusted://media-app/d4c3c276-6d7e-4efd-a24a-79b2d71c77b0";
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
